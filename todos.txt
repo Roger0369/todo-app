@@ -1,5 +1,7 @@
 Make soup
-Clean the code
-Buy the painting
-New Order
+Clean the database
+Buy plantsNew Order
 Master Python
+New todo
+New todo
+lastly
