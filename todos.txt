@@ -1,7 +1,5 @@
-Make soup
-Clean the database
 Buy plantsNew Order
 Master Python
 New todo
-New todo
-lastly
+Continue studying
+Do exercises
